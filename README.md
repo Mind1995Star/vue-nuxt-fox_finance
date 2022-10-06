@@ -1,3 +1,8 @@
+## Fox Finance
+Fox Finance is a deflationary reflection token on the Binance Smart Chain that joins investors, innovative decentralized products, and the wild world around us in a common mission.
+
+![foxfinance io_Marketplace](https://user-images.githubusercontent.com/105137625/194287145-ae053038-0a87-4b38-9d6f-dce1dbb113dd.png)
+
 ## Build Setup Testing
 ### Live: https://shop.foxfinance.io/
 ```bash
